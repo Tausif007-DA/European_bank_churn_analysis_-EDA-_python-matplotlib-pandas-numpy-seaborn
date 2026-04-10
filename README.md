@@ -162,3 +162,7 @@ Focusing on **customer engagement and personalized retention strategies** can si
 Aspiring Data Analyst | SQL | Python | Power BI
 
 ---
+
+
+link of the dashboard -= https://github.com/Tausif007-DA/European_bank_churn_analysis_-EDA-_python-matplotlib-pandas-numpy-seaborn/blob/main/CUSTOMER%20CHURN%20DASHBOARD.png
+
